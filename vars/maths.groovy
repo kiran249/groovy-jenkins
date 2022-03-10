@@ -1,5 +1,4 @@
 def add(a,b){
-  echo a,b
   echo "addition of two numbers ${a+b}"
 }
 
